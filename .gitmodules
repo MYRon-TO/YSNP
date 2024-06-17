@@ -1,0 +1,6 @@
+[submodule "you_should_not_pass_client"]
+	path = you_should_not_pass_client
+	url = git@github.com:MYRon-TO/you_should_not_pass_client.git
+[submodule "you_should_not_pass"]
+	path = you_should_not_pass
+	url = git@github.com:MYRon-TO/you_should_not_pass.git
